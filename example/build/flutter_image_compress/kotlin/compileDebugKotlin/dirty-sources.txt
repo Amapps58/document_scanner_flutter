@@ -1,0 +1,13 @@
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/core/CompressListHandler.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/core/CompressFileHandler.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/core/ResultHandler.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/logger/LogExt.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/util/TmpFileUtil.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/handle/common/CommonHandler.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/handle/FormatHandler.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/handle/heif/HeifHandler.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/ext/BitmapCompressExt.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/ImageCompressPlugin.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/exif/Exif.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/format/FormatRegister.kt
+/Users/iarsalan/.pub-cache/hosted/pub.dev/flutter_image_compress-1.1.3/android/src/main/kotlin/com/fluttercandies/flutter_image_compress/exception/CompressError.kt
